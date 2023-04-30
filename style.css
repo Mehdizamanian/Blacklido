@@ -1,3 +1,8 @@
 .fuckyou{
     color: red;
+    width : 100%;
+    height: 150px;
+    background-color: aquamarine;
+    font-size: 100px;
+    text-align: center;
 }
